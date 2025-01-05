@@ -53,3 +53,13 @@ The dataset contains transactional data with the following columns:
 - Customer segments created based on spending behavior, purchase diversity, and geographical trends.
 - Identification of high-value customers, frequent shoppers, and region-based patterns.
 - Recommendations tailored to customer segments.
+
+## Usage
+
+Feel free to explore the provided Jupyter Notebook for insights.
+
+## Dependencies
+
+- Python 3.x
+- Jupyter Notebook
+- Required libraries (specified in Jupyter Notebook)
